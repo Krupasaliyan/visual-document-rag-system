@@ -16,21 +16,35 @@ Install dependencies:
 ```bash
 
 pip install -r requirements.txt
-**Project Structure**
+ 
+📂 Project Structure
+bash
+Copy
+Edit
 visual_document_rag_system/
 │── app.py               # Main application file
 │── requirements.txt     # Python dependencies
 │── modules/             # Supporting scripts/modules
 │── data/                # Sample documents (if any)
 │── README.md            # Project documentation
-
+▶️ Usage
 Run the application:
 
+bash
+Copy
+Edit
 python app.py
-If you’re using Streamlit UI:
+Or with Streamlit:
 
+
+Copy
+Edit
 streamlit run app.py
+yaml
+Copy
+Edit
 👨‍💻 Author
 
 Developed by Krupasaliyan
 GitHub Profile
+
