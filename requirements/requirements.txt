@@ -1,0 +1,9 @@
+streamlit
+pytesseract
+pdfplumber
+Pillow
+pandas
+sentence-transformers
+chromadb
+opencv-python
+pdf2image
