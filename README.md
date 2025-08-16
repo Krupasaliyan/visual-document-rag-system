@@ -14,4 +14,23 @@ This project implements a **Visual Document Retrieval-Augmented Generation (RAG)
 
 Install dependencies:
 ```bash
+
 pip install -r requirements.txt
+**Project Structure**
+visual_document_rag_system/
+│── app.py               # Main application file
+│── requirements.txt     # Python dependencies
+│── modules/             # Supporting scripts/modules
+│── data/                # Sample documents (if any)
+│── README.md            # Project documentation
+
+Run the application:
+
+python app.py
+If you’re using Streamlit UI:
+
+streamlit run app.py
+👨‍💻 Author
+
+Developed by Krupasaliyan
+GitHub Profile
